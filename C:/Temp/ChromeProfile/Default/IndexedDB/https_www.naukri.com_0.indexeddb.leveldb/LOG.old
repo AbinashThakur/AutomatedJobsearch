@@ -1,0 +1,6 @@
+2021/06/09-15:39:54.433 6cd6 Reusing MANIFEST /home/surya/Desktop/test/automation/C:/Temp/ChromeProfile/Default/IndexedDB/https_www.naukri.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/09-15:39:54.433 6cd6 Recovering log #61
+2021/06/09-15:39:55.267 6cd6 Reusing old log /home/surya/Desktop/test/automation/C:/Temp/ChromeProfile/Default/IndexedDB/https_www.naukri.com_0.indexeddb.leveldb/000061.log 
+2021/06/09-15:40:06.600 6dc1 Level-0 table #67: started
+2021/06/09-15:40:06.679 6dc1 Level-0 table #67: 1224139 bytes OK
+2021/06/09-15:40:06.731 6dc1 Delete type=0 #61

@@ -1,0 +1,5 @@
+2021/06/09-15:40:21.066 6e07 Reusing MANIFEST /home/surya/Desktop/test/automation/C:/Temp/ChromeProfile/Default/Local Storage/leveldb/MANIFEST-000001
+2021/06/09-15:40:21.066 6e07 Recovering log #53
+2021/06/09-15:40:21.066 6e07 Level-0 table #55: started
+2021/06/09-15:40:21.198 6e07 Level-0 table #55: 61797 bytes OK
+2021/06/09-15:40:21.292 6e07 Delete type=0 #53

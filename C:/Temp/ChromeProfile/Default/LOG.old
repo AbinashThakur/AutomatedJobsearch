@@ -1,0 +1,52 @@
+2021/05/23-00:05:34.109 26e0 Delete type=3 #1
+2021/05/23-00:06:18.106 2aa2 Level-0 table #5: started
+2021/05/23-00:06:18.646 2aa2 Level-0 table #5: 7493 bytes OK
+2021/05/23-00:06:19.205 2aa2 Delete type=0 #3
+2021/05/23-00:06:56.315 2aa2 Level-0 table #7: started
+2021/05/23-00:06:56.475 2aa2 Level-0 table #7: 7433 bytes OK
+2021/05/23-00:06:56.550 2aa2 Delete type=0 #4
+2021/05/23-00:07:34.367 2aa2 Level-0 table #9: started
+2021/05/23-00:07:34.504 2aa2 Level-0 table #9: 7446 bytes OK
+2021/05/23-00:07:34.591 2aa2 Delete type=0 #6
+2021/05/23-00:08:12.420 2aa2 Level-0 table #11: started
+2021/05/23-00:08:12.582 2aa2 Level-0 table #11: 7427 bytes OK
+2021/05/23-00:08:12.680 2aa2 Delete type=0 #8
+2021/05/23-00:08:50.944 2aa2 Level-0 table #13: started
+2021/05/23-00:08:51.198 2aa2 Level-0 table #13: 8284 bytes OK
+2021/05/23-00:08:51.284 2aa2 Delete type=0 #10
+2021/05/23-00:09:28.722 2aa2 Level-0 table #15: started
+2021/05/23-00:09:28.786 2aa2 Level-0 table #15: 8236 bytes OK
+2021/05/23-00:09:28.861 2aa2 Delete type=0 #12
+2021/05/23-00:09:28.861 2aa2 Compacting 4@0 + 1@1 files
+2021/05/23-00:09:28.918 2aa2 Generated table #16@0: 1 keys, 520 bytes
+2021/05/23-00:09:28.918 2aa2 Compacted 4@0 + 1@1 files => 520 bytes
+2021/05/23-00:09:28.992 2aa2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/23-00:09:28.993 2aa2 Delete type=2 #11
+2021/05/23-00:09:28.993 2aa2 Delete type=2 #13
+2021/05/23-00:09:28.993 2aa2 Delete type=2 #9
+2021/05/23-00:09:28.993 2aa2 Delete type=2 #7
+2021/05/23-00:09:28.993 2aa2 Delete type=2 #15
+2021/05/23-00:10:06.774 2aa2 Level-0 table #18: started
+2021/05/23-00:10:07.110 2aa2 Level-0 table #18: 8276 bytes OK
+2021/05/23-00:10:07.564 2aa2 Delete type=0 #14
+2021/05/23-00:10:45.409 2aa2 Level-0 table #20: started
+2021/05/23-00:10:45.500 2aa2 Level-0 table #20: 8258 bytes OK
+2021/05/23-00:10:45.609 2aa2 Delete type=0 #17
+2021/05/23-00:11:22.882 2aa2 Level-0 table #22: started
+2021/05/23-00:11:22.949 2aa2 Level-0 table #22: 8273 bytes OK
+2021/05/23-00:11:23.012 2aa2 Delete type=0 #19
+2021/05/23-00:12:00.955 2aa2 Level-0 table #24: started
+2021/05/23-00:12:02.281 2aa2 Level-0 table #24: 8265 bytes OK
+2021/05/23-00:12:02.465 2aa2 Delete type=0 #21
+2021/05/23-00:12:02.465 2aa2 Compacting 4@0 + 1@1 files
+2021/05/23-00:12:02.865 2aa2 Generated table #25@0: 1 keys, 520 bytes
+2021/05/23-00:12:02.865 2aa2 Compacted 4@0 + 1@1 files => 520 bytes
+2021/05/23-00:12:03.009 2aa2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/23-00:12:03.010 2aa2 Delete type=2 #22
+2021/05/23-00:12:03.010 2aa2 Delete type=2 #18
+2021/05/23-00:12:03.010 2aa2 Delete type=2 #20
+2021/05/23-00:12:03.010 2aa2 Delete type=2 #24
+2021/05/23-00:12:03.010 2aa2 Delete type=2 #16
+2021/05/23-00:12:39.014 2aa2 Level-0 table #27: started
+2021/05/23-00:12:39.476 2aa2 Level-0 table #27: 8286 bytes OK
+2021/05/23-00:12:39.573 2aa2 Delete type=0 #23

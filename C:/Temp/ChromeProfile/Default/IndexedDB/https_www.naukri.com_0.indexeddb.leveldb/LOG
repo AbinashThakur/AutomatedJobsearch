@@ -1,0 +1,9 @@
+2021/06/09-15:40:22.277 6e1a Reusing MANIFEST /home/surya/Desktop/test/automation/C:/Temp/ChromeProfile/Default/IndexedDB/https_www.naukri.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/09-15:40:22.277 6e1a Recovering log #66
+2021/06/09-15:40:22.277 6e1a Reusing old log /home/surya/Desktop/test/automation/C:/Temp/ChromeProfile/Default/IndexedDB/https_www.naukri.com_0.indexeddb.leveldb/000066.log 
+2021/06/09-15:40:34.637 6e9d Compacting 1@1 + 1@2 files
+2021/06/09-15:40:34.892 6e9d Generated table #69@1: 135 keys, 47960 bytes
+2021/06/09-15:40:34.892 6e9d Compacted 1@1 + 1@2 files => 47960 bytes
+2021/06/09-15:40:35.096 6e9d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/09-15:40:35.096 6e9d Delete type=2 #67
+2021/06/09-15:40:35.096 6e9d Delete type=2 #64
